@@ -15,7 +15,7 @@ Discord RPC для показа музыки которую вы сейчас с
 Показывает сколько осталось до конца трека ✅
 
 
-За основу был взят код: [https://github.com/schwarzalexey/yandex-music-rpc/tree/main  ](https://github.com/FozerG/WinYandexMusicRPC)
+За основу был взят код: https://github.com/FozerG/WinYandexMusicRPC
 Используется Yandex Music API: https://github.com/MarshalX/yandex-music-api
 
 
