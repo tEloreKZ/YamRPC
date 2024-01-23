@@ -16,9 +16,8 @@ Discord RPC для показа музыки которую вы сейчас с
 
 ------------
 
-Основной код: 
+Использование кодов: 
 - https://github.com/FozerG/WinYandexMusicRPC
-Yandex Music API: 
 - https://github.com/MarshalX/yandex-music-api
 
 
