@@ -14,10 +14,11 @@ Discord RPC для показа музыки которую вы сейчас с
 Восстанавливает время трека после паузы которая была больше 5 минут ✅
 Показывает сколько осталось до конца трека ✅
 
+------------
 
-За основу был взят код: 
+Основной код: 
 https://github.com/FozerG/WinYandexMusicRPC
-Используется Yandex Music API: 
+Yandex Music API: 
 https://github.com/MarshalX/yandex-music-api
 
 
