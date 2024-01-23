@@ -1,7 +1,7 @@
 # **YamRPC - Yandex Music Discord Rich Presence based on Python3 and WinSDK**
 Discord RPC для показа музыки которую вы сейчас слушаете на компьютере через приложение Яндекс.Музыки.
 
-![discord](./img/screen1.png)
+![discord](./img/YamRPC.png)
 
 
 Плюсы по сравнению с другими скриптами:    
